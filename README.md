@@ -3,7 +3,7 @@
 ## Docker Image
 
 ```
-docker.io/nyeinkokoaung404/google-cloud-run-proxy
+docker.io/nyeinkokoaung404/google_cloud_run_proxy
 ```
 
 ## Environment Variable Name
